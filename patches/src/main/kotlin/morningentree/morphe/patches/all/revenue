@@ -1,4 +1,4 @@
-package 
+package morningentree.morphe.patches.all
 
 import app.morphe.patcher.Fingerprint
 import app.morphe.patcher.methodCall
